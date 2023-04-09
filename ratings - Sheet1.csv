@@ -1,0 +1,96 @@
+,User_1,User_2,User_3,User_4,User_5,User_6,User_7,User_8,User_9,User_10
+Chief Executives,5,2,0,1,4,3,5,1,4,5
+Chief Sustainability Officers,4,3,5,1,2,0,4,5,3,2
+General and Operations Managers,1,4,2,3,0,5,1,2,3,0
+Advertising and Promotions Managers,2,3,4,2,0,1,3,3,4,1
+Marketing Managers,3,4,5,1,1,3,4,4,5,2
+Sales Managers,4,5,4,0,2,4,3,3,4,1
+Administrative Services Managers,3,1,3,0,3,2,4,2,5,2
+Computer and Information Systems Managers,1,4,4,5,2,4,2,3,4,4
+Financial Managers,0,0,1,2,4,2,4,1,1,2
+Investment Fund Managers,1,1,2,3,5,3,0,3,3,3
+Quality Control Systems Managers,3,2,4,5,1,0,3,2,4,5
+Geothermal Production Managers,3,4,5,3,2,1,2,4,5,2
+Biofuels Production Managers,4,5,5,2,5,2,0,5,3,4
+Biofuels/Biodiesel Technology and Product Development Managers,5,4,5,1,4,3,1,4,2,3
+Biomass Power Plant Managers,4,4,3,3,1,0,1,4,4,5
+"Hydroelectric Production Managers', 'Purchasing Managers",1,3,2,5,3,1,2,3,0,0
+"Transportation, Storage, and Distribution Managers",0,2,0,4,2,3,4,5,3,1
+Supply Chain Managers,1,1,1,5,2,2,5,3,2,3
+Compensation and Benefits Managers,1,0,0,3,1,1,4,2,3,4
+Human Resources Managers,4,5,1,0,3,0,1,4,5,5
+Training and Development Managers,5,5,2,1,5,0,2,3,2,3
+"Farmers, Ranchers, and Other Agricultural Managers",4,3,4,3,4,2,1,4,5,0
+Construction Managers,2,5,1,2,1,0,2,2,2,1
+Wind Energy Operations Managers,1,3,5,3,2,1,2,3,3,4
+Wind Energy Development Managers,2,2,4,1,4,0,3,5,4,5
+Natural Sciences Managers,1,4,3,3,5,3,0,3,5,2
+Medical and Health Services Managers,0,1,5,3,1,0,4,2,1,3
+Food Service Managers,1,2,3,4,5,5,0,5,3,5
+Lodging Managers,2,3,0,1,1,1,0,3,4,5
+Social and Community Service Managers,3,3,2,3,4,3,2,1,0,2
+Regulatory Affairs Managers,3,4,4,5,0,2,4,3,5,4
+Compliance Managers,4,3,5,4,1,1,3,1,3,3
+Computer Systems Analysts,3,5,4,4,1,3,2,4,5,1
+Information Security Analysts,2,3,5,4,2,4,2,5,4,2
+Computer and Information Research Scientists,1,3,2,5,1,5,5,3,4,5
+Computer Network Support Specialists,2,4,3,2,3,4,1,4,3,0
+Computer User Support Specialists,1,5,2,3,4,5,2,5,4,0
+Health Informatics Specialists,2,4,3,2,5,2,4,2,5,2
+Computer Network Architects,1,3,5,3,2,3,5,3,4,3
+Telecommunications Engineering Specialists,2,5,1,5,3,4,3,5,3,4
+Database Administrators,4,2,5,5,1,3,2,5,2,5
+Data Warehousing Specialists,3,3,3,5,2,5,1,4,3,2
+Network and Computer Systems Administrators,3,1,5,2,1,1,2,3,4,1
+Computer Programmers,2,3,2,3,2,2,3,5,5,2
+Software Quality Assurance Analysts and Testers,1,2,5,2,3,4,4,5,3,3
+Web Developers,2,5,3,5,2,5,2,3,1,5
+Geographic Information Systems Technologists and Technicians,3,3,5,5,1,3,1,2,2,3
+Database Architects,3,2,5,5,2,2,2,3,0,1
+Video Game Designers,2,5,1,2,3,4,3,2,3,4
+Web Administrators,2,4,1,1,4,5,2,4,2,2
+Computer Systems Engineers/Architects,2,2,3,4,2,2,1,5,1,4
+Business Intelligence Analysts,3,3,4,5,1,3,2,3,2,2
+Bioinformatics Technicians,2,2,2,2,3,4,3,4,3,1
+Nanotechnology Engineering Technologists and Technicians,2,3,3,4,2,2,3,2,2,4
+Intelligence Analysts,3,2,5,4,1,1,1,5,5,5
+Computer Hardware Engineers,1,3,2,2,2,2,2,4,2,3
+Aerospace Engineers,1,3,1,3,3,5,4,3,4,2
+Agricultural Engineers,1,4,2,2,4,3,3,2,3,1
+Chemical Engineers,1,5,2,1,2,2,4,1,1,3
+Bioengineers and Biomedical Engineers,2,4,3,2,1,3,5,3,4,4
+Civil Engineers,1,2,4,3,2,4,3,2,4,5
+Electrical Engineers,2,3,2,3,3,2,4,4,3,2
+Robotics Engineers,1,5,5,2,2,5,5,5,5,3
+"Education and Childcare Administrators, Preschool and Daycare",5,4,0,0,1,3,3,4,1,0
+"Education Administrators, Kindergarten through Secondary",4,5,2,0,1,2,4,5,1,1
+"Education Administrators, Postsecondary",5,5,0,5,5,4,3,5,1,2
+"Educational, Guidance, and Career Counselors and Advisors",5,5,0,2,3,2,4,5,1,2
+Health Education Specialists,5,2,0,1,4,3,2,1,4,5
+"Directors, Religious Activities and Education",4,3,5,1,2,0,4,5,3,2
+"Education Teachers, Postsecondary",3,4,2,0,0,5,1,2,3,0
+"Health Specialties Teachers, Postsecondary",1,3,5,2,0,1,3,3,4,1
+"Library Science Teachers, Postsecondary",3,5,5,1,1,3,0,4,0,2
+"Law Teachers, Postsecondary",4,5,4,0,0,5,1,3,4,1
+"Social Work Teachers, Postsecondary",0,3,3,0,3,2,4,2,5,2
+"Communications Teachers, Postsecondary",5,4,2,0,0,0,4,4,1,2
+"Geography Teachers, Postsecondary",4,5,3,1,0,0,5,4,3,2
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",5,0,0,1,3,4,5,1,0,0
+"Special Education Teachers, Secondary School",1,2,5,4,3,0,0,1,2,4
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",4,3,5,1,2,0,0,3,3,4
+Self-Enrichment Teachers,3,2,5,4,0,3,1,5,2,3
+Tutors,3,2,0,5,5,2,2,3,0,1
+Instructional Coordinators,5,5,1,2,4,0,4,4,4,5
+"Teaching Assistants, Postsecondary",0,2,3,3,1,0,0,0,5,4
+"Art, Drama, and Music Teachers, Postsecondary",3,5,0,2,4,4,5,1,0,0
+"Family and Consumer Sciences Teachers, Postsecondary",1,3,2,5,1,5,5,3,4,5
+"Recreation and Fitness Studies Teachers, Postsecondary",2,2,1,0,4,2,3,2,3,3
+Adapted Physical Education Specialists,2,3,0,3,2,2,3,5,5,2
+Librarians and Media Collections Specialists,0,2,5,2,3,4,4,5,3,3
+Farm and Home Management Educators,2,5,3,5,2,5,2,3,1,5
+"Mathematical Science Teachers, Postsecondary",3,3,5,5,0,3,1,0,2,3
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",3,2,5,5,2,2,2,3,0,1
+"Anthropology and Archeology Teachers, Postsecondary",4,5,1,2,0,0,3,3,1,1
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",5,4,0,0,1,2,3,5,5,3
+Mental Health Counselors,4,5,1,0,1,2,3,5,4,2
+Cook,2,4,4,5,2,5,2,3,1,5
